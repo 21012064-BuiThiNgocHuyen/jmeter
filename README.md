@@ -25,7 +25,11 @@ Kết luận: Hiệu suất kết nối khá tốt, với thời gian phản h�
 Tuy nhiên, có một số yêu cầu có thời gian phản hồi và độ trễ cao hơn đáng kể, có thể ảnh hưởng đến trải nghiệm người dùng.
 Cần theo dõi và tối ưu hóa hiệu suất kết nối cho các yêu cầu này để đảm bảo chất lượng dịch vụ tốt nhất.
 
-2.Hiệu năng của api
+2.Hiệu năng của api weather
+![api1](https://github.com/21012064-BuiThiNgocHuyen/jmeter/assets/124747527/a023b5b0-39ea-4bf3-912a-ef71622b7cfd)
+![api2](https://github.com/21012064-BuiThiNgocHuyen/jmeter/assets/124747527/caaec911-4531-407d-9830-c4ecc66f68fd)
+![api3](https://github.com/21012064-BuiThiNgocHuyen/jmeter/assets/124747527/1c266190-c7fc-439b-a276-1c52cbca2cb3)
+
 Thời gian kết nối:
 
   Thời gian phản hồi trung bình: 57 mili giây
