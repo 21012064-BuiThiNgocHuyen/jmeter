@@ -1,6 +1,10 @@
 # jmeter
 1. Hiệu năng của trang web "W3School"
  
+![web1](https://github.com/21012064-BuiThiNgocHuyen/jmeter/assets/124747527/9ca944e8-d5ff-4585-aedb-730c90ff918a)
+![web2](https://github.com/21012064-BuiThiNgocHuyen/jmeter/assets/124747527/15f93a7a-89e8-4a0f-aa24-0251d5b4bccf)
+![web3](https://github.com/21012064-BuiThiNgocHuyen/jmeter/assets/124747527/72f8eabb-f29e-4377-a72a-d30af919e97c)
+
 
 Phân tích kết quả kiểm tra hiệu năng trang web
 Thời gian Kết nối:
